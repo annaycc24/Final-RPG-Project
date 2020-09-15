@@ -1,9 +1,3 @@
-//collision fun要不要直接刪掉？ 可以刪
-//第二關Boss主動攻擊的code要不要直接刪掉？ 可以刪
-//typedef的位置可以往下移嗎？
-//about的code能移到menu下嗎？
-//確認Anna註解的code能刪掉嗎？
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
